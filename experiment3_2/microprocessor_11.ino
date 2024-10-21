@@ -1,6 +1,6 @@
-int button = 8;
-int led = 7;
-int buttonState;
+int button = 8;  //output number for button
+int led = 7;  // LED
+int buttonState; //=0;
 void setup() {
 pinMode(button, INPUT);
 pinMode(led, OUTPUT);
