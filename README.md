@@ -1,16 +1,5 @@
 # آزمایشگاه ریز پردازنده 
 
-## `جلسه دوم` 
+I will put weekly reports of my microprocessor lab here.
 
-###  <mark>17 / 7 / 1403</mark>
-
-### وسایل مورد
-
-| ردیف |       قطعه      |  تعداد |
-|:----:|:---------------:|:------:|
-|   1  |     بردبرد     | یک عدد |
-|   2  | برد آردوینو UNO | یک عدد |
-|   3  |    سیم  رابط | پنج عدد |
-|   4  | مقاومت 220 اهمی | دو عدد |
-|   5  |    دیود نوری    | دو عدد |
-|   6  |     کابل USB    | یک عدد |
+there will be a source code for every new experiments following by a simple diagrams for the circuit 
